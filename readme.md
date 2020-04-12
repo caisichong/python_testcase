@@ -9,5 +9,3 @@ lib目录：逻辑目录（功能目录）
 report目录：测试报告存放目录
 
 注：BeautifulReport.py文件为测试报告模板文件，case基于这个文件而运行后生产测试报告，BeautifulReport目录必须放于python的安装目录下的Lib\site-packages目录下
-
-本框架属玩吧QA所有，未经允许不得扩散！！
