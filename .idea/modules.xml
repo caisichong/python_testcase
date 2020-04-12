@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CC_Test framework.iml" filepath="$PROJECT_DIR$/.idea/CC_Test framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../api_automatic_test/.idea/api_automatic_test.iml" filepath="$PROJECT_DIR$/../api_automatic_test/.idea/api_automatic_test.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/chat/msg_mqtt/.idea/msg_mqtt.iml" filepath="$USER_HOME$/Desktop/chat/msg_mqtt/.idea/msg_mqtt.iml" />
+    </modules>
+  </component>
+</project>
